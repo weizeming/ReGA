@@ -1,4 +1,4 @@
-# ReGA: Representation-Guided Abstraction \\for Model-based Safeguarding of LLMs
+# ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs
 
 ## Usage
 
